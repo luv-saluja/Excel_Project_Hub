@@ -59,7 +59,7 @@ The dashboard covers **7 payment apps**, **8 banks**, and **28 states**, with mu
  
 ## 🚀 How to Use
  
-1. Download `UPI_Transaction_Dashboard.xlsx`
+1. Download `(https://github.com/luv-saluja/Excel_Project_Hub/releases/download/v1.0/UPI_Transactions_Project_Excel_File.xlsx)`
 2. Open in Microsoft Excel (2016 or later recommended for full slicer/chart support)
 3. Use the **Filter Panel** on the left to slice by City, Gender, Merchant Category, or Merchant Name
 4. All KPIs, charts, and the map update live based on your filter selection
