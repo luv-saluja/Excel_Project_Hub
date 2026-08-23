@@ -3,7 +3,7 @@
  
 **An interactive Excel dashboard analyzing 500K+ UPI transactions across India — built to surface real-time payment trends, fraud signals, and platform performance.**
  
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview]([dashboard-preview.png](https://github.com/luv-saluja/Excel_Project_Hub/blob/main/DASHBOARD_UPI_PROJECT.png))
  
 ---
  
