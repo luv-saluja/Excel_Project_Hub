@@ -8,6 +8,8 @@
 ---
  
 ## 🔍 Overview
+<img width="1001" height="558" alt="DASHBOARD_UPI_PROJECT" src="https://github.com/user-attachments/assets/d0140a19-1e8d-42b3-8f35-f5f4e26ca753" />
+
  
 This dashboard provides a real-time overview of UPI (Unified Payments Interface) transaction activity across India, analyzing **502.89K transactions** worth **₹44.25 Cr** in total volume. It was built entirely in Excel using pivot tables, DAX-style calculated fields, dynamic slicers, and advanced chart types to turn a raw transaction-level dataset into a decision-ready operational and fraud-monitoring tool.
  
